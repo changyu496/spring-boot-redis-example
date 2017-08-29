@@ -1,0 +1,104 @@
+/xss-domain/src/main/resources/generatorConfig.xml
+# Created by .ignore support plugin (hsz.mobi)
+### Eclipse template
+*.pydevproject
+.metadata
+.gradle
+tmp/
+*.tmp
+*.bak
+*.swp
+local.properties
+.settings/
+.loadpath
+.project
+perfStats.log.*
+useroperation.log.*
+log/
+logging.path*
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# sbteclipse plugin
+.target
+
+### Gradle template
+build/
+
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+### Java template
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.iml
+.idea/
+# if you remove the above rule, at least ignore the following:
+
+# User-specific stuff:
+ .idea/workspace.xml
+  .idea/tasks.xml
+   .idea/dictionaries
+
+# Sensitive or high-churn files:
+    .idea/dataSources.ids
+     .idea/dataSources.xml
+      .idea/sqlDataSources.xml
+       .idea/dynamic.xml
+        .idea/uiDesigner.xml
+
+## File-based project format:
+        *.ipr
+        *.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+        /out/
+
+# mpeltonen/sbt-idea plugin
+        .idea_modules/
+
+# JIRA plugin
+        atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+        com_crashlytics_export_strings.xml
+        crashlytics.properties
+        crashlytics-build.properties
+
+        .DS_Store
+
+        target
+        pom.xml.orig
+        *.orig
+        *.log
+        build
+        /eco-advert/log.path_IS_UNDEFINED
+        /eco-biz/log.path_IS_UNDEFINED
+        /eco-cart/log.path_IS_UNDEFINED
+        /eco-commons/log.path_IS_UNDEFINED
+        /eco-gateway/log.path_IS_UNDEFINED
+        /eco-msg/log.path_IS_UNDEFINED
+        /eco-order/log.path_IS_UNDEFINED
+        /eco-product/log.path_IS_UNDEFINED
+        /eco-sync/log.path_IS_UNDEFINED
+        /eco-user/log.path_IS_UNDEFINED
+        /eco-web/log.path_IS_UNDEFINED
+        log.path_IS_UNDEFINED/
+
+        /eco-web/src/main/resources/application-dev.yml
+        /eco-web/src/main/resources/application.yml
+
